@@ -4,3 +4,4 @@ This project is a **security auditing and penetration testing tool** for Oracle 
 
 ## Week 1: Project Setup & Research
 - ✅ Created  Secure Oracle Auditor tool.
+happy
