@@ -1,4 +1,6 @@
-###Secure Oracle Auditor - Week 1
+###Secure Oracle Auditor### 
+
+- Week 1
 
 
 ✅ Week 1 Summary
