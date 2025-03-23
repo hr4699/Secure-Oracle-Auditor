@@ -55,3 +55,20 @@ Status Update:
 
 "User auditing module implemented. Tested with sample database."
 
+### Week 4
+Tasks:
+
+Implement a function to simulate weak password checks.
+
+Test the function with common passwords (e.g., "password", "admin").
+
+Deliverables:
+
+Python script to detect weak passwords.
+
+Updated GitHub repository with the weak password detection module.
+
+Status Update:
+
+"Weak password detection module implemented. Tested with common passwords."
+
