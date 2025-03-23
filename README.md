@@ -23,3 +23,19 @@ Verified successful connection using the new database user.
 
 - Git Commit & Push
 Added all project files and pushed the changes to GitHub.
+
+### Week 2
+Implement the database connection module using cx_Oracle.
+
+Handle connection errors and timeouts.
+
+Deliverables:
+
+Python script to connect to an Oracle database.
+
+Updated GitHub repository with the connection module.
+
+Status Update:
+
+"Database connection module implemented. Basic error handling added."
+
