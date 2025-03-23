@@ -1,28 +1,25 @@
 ## Secure Oracle Auditor
 
 ### Week 1
-- Project Setup
-Created GitHub repository and cloned it in VS Code.
-Set up a Python virtual environment for dependency management.
+Tasks:
 
-- Installed Dependencies
-Installed cx_Oracle library for Oracle database connectivity.
-Created a requirements.txt file to track dependencies.
+Define project scope and objectives.
 
-- Oracle Database Setup
-Installed Oracle Database XE and Oracle Instant Client.
-Configured system PATH for Oracle Instant Client.
+Research Oracle database security concepts (e.g., user management, SQL injection, weak passwords).
 
-- Created Database User
-Logged in as SYSTEM and created a new database user.
-Granted necessary privileges to allow database access.
+Set up the development environment (Python, Oracle Database, cx_Oracle library).
 
-- Tested Database Connection
-Wrote a Python script to connect to the Oracle database.
-Verified successful connection using the new database user.
+Create a GitHub repository for the project.
 
-- Git Commit & Push
-Added all project files and pushed the changes to GitHub.
+Deliverables:
+
+Project proposal document.
+
+GitHub repository with a README.md file describing the project.
+
+Status Update:
+
+"Project scope defined. Development environment set up. GitHub repository created."
 
 ### Week 2
 Implement the database connection module using cx_Oracle.
