@@ -106,5 +106,23 @@ Status Update:
 
 "Reporting module implemented. Sample report generated."
 
+### Week 7
+Tasks:
+
+Integrate all modules into a single script.
+
+Test the complete tool with a sample Oracle database.
+
+Deliverables:
+
+Integrated Python script.
+
+Updated GitHub repository with the complete tool.
+
+Status Update:
+
+"All modules integrated. Initial testing completed."
+
+
 
 
