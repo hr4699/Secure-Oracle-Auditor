@@ -1,7 +1,7 @@
 ## Secure Oracle Auditor
 
 ### Week 1
-** Tasks: **
+Tasks: 
 
 Define project scope and objectives.
 
