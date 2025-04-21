@@ -1,7 +1,7 @@
 ## Secure Oracle Auditor
 
 ### Week 1
-Tasks:
+Tasks: 
 
 Define project scope and objectives.
 
@@ -71,4 +71,58 @@ Updated GitHub repository with the weak password detection module.
 Status Update:
 
 "Weak password detection module implemented. Tested with common passwords."
+
+### Week 5
+Tasks:
+
+Implement a function to test for SQL injection vulnerabilities.
+
+Test the function with sample queries.
+
+Deliverables:
+
+Python script to test for SQL injection vulnerabilities.
+
+Updated GitHub repository with the SQL injection testing module.
+
+Status Update:
+
+"SQL injection testing module implemented. Tested with sample queries."
+
+### Week 6
+Tasks:
+
+Implement a function to generate a text-based report.
+
+Test the report generation with sample findings.
+
+Deliverables:
+
+Python script to generate a text-based report.
+
+Updated GitHub repository with the reporting module.
+
+Status Update:
+
+"Reporting module implemented. Sample report generated."
+
+### Week 7
+Tasks:
+
+Integrate all modules into a single script.
+
+Test the complete tool with a sample Oracle database.
+
+Deliverables:
+
+Integrated Python script.
+
+Updated GitHub repository with the complete tool.
+
+Status Update:
+
+"All modules integrated. Initial testing completed."
+
+
+
 
