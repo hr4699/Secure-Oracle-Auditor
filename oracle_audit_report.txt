@@ -1,0 +1,21 @@
+Oracle Database Audit Report
+==============================
+User: XS$NULL
+User: K214699
+User: HOMEUSER
+User: APEX_040000
+User: APEX_PUBLIC_USER
+User: FLOWS_FILES
+User: HR
+User: MDSYS
+User: ANONYMOUS
+User: XDB
+User: CTXSYS
+User: APPQOSSYS
+User: DBSNMP
+User: ORACLE_OCM
+User: DIP
+User: OUTLN
+User: SYSTEM
+User: SYS
+[+] SQL Injection Vulnerability Found!
