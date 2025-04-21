@@ -123,6 +123,41 @@ Status Update:
 
 "All modules integrated. Initial testing completed."
 
+### Week 8
+Tasks:
+
+Fix any bugs or issues identified during testing.
+
+Optimize the code for performance and readability.
+
+Deliverables:
+
+Bug-free and optimized Python script.
+
+Updated GitHub repository with the final code.
+
+Status Update:
+
+"Bug fixing and optimization completed. Code ready for final testing."
+
+### Week 9
+Tasks:
+
+Perform final testing with different Oracle database setups.
+
+Validate the tool's functionality and accuracy.
+
+Deliverables:
+
+Tested and validated Python script.
+
+Updated GitHub repository with final changes.
+
+Status Update:
+
+"Final testing completed. Tool is ready for submission."
+
+
 
 
 
