@@ -62,6 +62,6 @@ if __name__ == "__main__":
 
         findings = users + weak_passwords + [sql_injection_result]
 
-        generate_report("oracle_audit_report.txt", findings)
+        generate_report("Secure-Oracle-Auditor/oracle_audit_report.txt", findings)
 
         connection.close()
